@@ -14,7 +14,7 @@ MAX_SIN_LAT = 1. - 1e-5                              # Bound for sinus of latitu
 MAX_SIZE = 640                                       # Max size of the map in pixels
 SCALE = 2                                            # 1 or 2 (free plan), see Google Static Maps API docs
 MAPTYPE = 'roadmap'                                  # Default map type
-API_KEY = 'AIzaSyBXk3Q9C8kcJLT2TXSwohBa78tQkV6uvjY'                 # Put your API key here, see https://console.developers.google.com
+API_KEY = 'AIzaSyCexcIsKxk45z9YUMibW9fNRkqI-otKNGI'  # Put your API key here, see https://console.developers.google.com
 BASE_URL = 'https://maps.googleapis.com/maps/api/staticmap?'
 
 cache = {}                                           # Caching queries to limit API calls / speed them up
