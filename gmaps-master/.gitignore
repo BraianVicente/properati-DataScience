@@ -8,7 +8,7 @@
 *.pyc
 
 # Ignore ipython notebooks & checkpoints
-*.ipynb
+
 .ipynb_checkpoints
 
 *~
